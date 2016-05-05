@@ -1,1 +1,1 @@
-# moneyrun-webapp
+# moneyrush-webapp
